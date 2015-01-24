@@ -49,6 +49,8 @@
 #import "JSQErrorMessage.h"
 #import "JSQDisplayedMessageCollectionViewCell.h"
 
+#include "UIFont+OWS.h"
+
 static void * kJSQMessagesKeyValueObservingContext = &kJSQMessagesKeyValueObservingContext;
 
 

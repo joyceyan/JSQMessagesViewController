@@ -6,13 +6,13 @@
 //  Copyright (c) 2014 Open Whisper Systems. All rights reserved.
 //
 
+#import "UIFont+OWS.h"
+
 static NSString *const kHelveticaNeueThin    = @"HelveticaNeue-Thin";
 static NSString *const kHelveticaNeueLight   = @"HelveticaNeue-Light";
 static NSString *const kHelveticaNeueRegular = @"HelveticaNeue-Regular";
 static NSString *const kHelveticaNeueMedium  = @"HelveticaNeue-Medium";
 static NSString *const kHelveticaNeueBold    = @"HelveticaNeue-Bold";
-
-#import "UIFont+OWS.h"
 
 @implementation UIFont (OWS)
 
